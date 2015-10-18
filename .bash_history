@@ -1,170 +1,3 @@
-gcc -o btest.c
-make
-cd..
-cd ..
-cd ..
-ls
-cd hw3
-ls
-cd datalab-f15-handout
-;s
-ls
-make
-./btest
-ls
-pioc bits.c
-pico bits.c
-ls
-clear
-ls
-make
-./btest
-ls
-cd hw3_test
-ls
-cd datalab-f15-handout
-ls
-pico bits.c
-clear
-make
-./btest
-ls
-cd ..
-cd ..
-lscs
-ls
-cd hw3
-ls
-cd datalab-f15-handout
-pico bits.c
-clear
-make
-./btest
-pico bits.c
-pico bits.c
-make
-./btest
-pico bits.c
-make
-./btest
-pico bits.c
-ls
-pico bits.c
-make
-./btest
-pico bits.c
-make
-./btest
-pico bits.c
-make
-./btest
-pico bits.c
-make
-./btest
-pico bits.c
-make
-./btest
-pico bits.c
-make
-./btest
-pico bits.c
-make
-./btest
-pico bits.c
-make
-./btest
-cd hw3
-ls
-cd datalab-f15-handout
-ls
-nano bits.c
-ls -al ~/.ssh
-ls
-cd hw1
-ls -al ~/.ssh
-readlink
-cd hw3
-ls
-cd datalab-f15-handout
-ls
-nano bits.c
-make
-./btest
-nano bits.c
-make
-./btest
-clear
-cd
-sudo apt-get install git
-apt-get install git
-no
-git config --global user.name "Aaron_Bauer"
-git config --global user.name "jetman360"
-git config --global user.email "jetman360a@gmail.com"
-git inir Mytest
-git init mytest
-git remote add origin https:github.com/jetman360/COMP_264.git
-git add hw1
-ls
-cd mytest
-nano
-ls
-git add hello.txt
-git commit -m "test 1"
-git remote add origin https://github.com/jetman360/mystest.git
-git push origin master
-git push origin master
-git push origin master
-cd
-ls
-rm -r mytest
-ls
-rm -r test 1
-rm -r test1
-ls
-mv hw1 comp264hw1
-ls
-mv hw2 comp264hw2
-ls
-mv hw3 comp264hw3
-ls 
-cd comp265hw1
-cd comp264hw1
-ls
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.coms/2015/abauert commit"
-
-ls
-cd
-ghdfg 
-clear
-ls
-cd comp264hw1
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/jetman360/comp264hw1.git
-git push origin master
-cd
-cd comp264hw2
-git init
-git add .
-git commit -m "commit"
-git remote add origin https://github.com/jetman360/comp264hw2.git
-git remote -v
-git push origin master
-ls
-cd .
-cd ..
-cd
-ls
-cd comp264hw3
-git init
-git add .
-git commit -m "first commit"
-git remote add origin master https://github.com/jetman360/comp264hw3.git
 git remote -v
 git push origin master
 git remote add origin master https://github.com/jetman360/comp264hw3.git
@@ -498,3 +331,170 @@ pico
 aset
 emd 
 --help\
+cd hw1
+ls
+git init
+git commit -m "first commit"
+git add -A
+git commit -m "first commit"
+git push -u origin master
+git remote add origin https://github.com/jetman360/COMP-264.git
+git push -u origin master
+cd ..
+rm -r hw1
+mkdir hw1
+chmod go-rwx hw1
+mkdir hw211
+mkdir hw31
+chmod go-rwx hw2
+chmod go-rwx hw3
+cd hw1
+cd ..
+ls
+cd hw1
+ls
+cd //
+cd ..
+cd comp264hw1
+cd comp265hw1
+ccd comp264hw1
+cd comp264hw1
+ls
+cd hw1
+cd home
+ls
+cd usr
+cd ..
+cd
+ls
+cd comp264hw1
+ls
+cp hello hello.c hello.i hello.o hello.s hellozip hw1
+cp hello hello.c hello.i hello.o hello.s hellozip ..
+cp hello.zip ..
+cd ..
+ls
+cp hello hello.c hello.i hello.o hello.s hello.zip hw1
+ls
+cd hw1
+ls
+cd ..
+ls
+rm -r comp264hw1
+ls
+rm hello hello.c
+ls
+rm hello.i hello.o hello.s hello.zip
+ls
+cd comp264hw2
+ls
+cp abauer3@luc.edu-15SEPT15.c edtest ..
+cd ..
+ls
+cp abauer3@luc.edu-15SEPT15.c edtest hw2
+ls
+cd hw2
+ls
+cd ..
+ls
+rm abauer3@luc.edu-15SEPT15 edtest
+ls
+rm abauer3@luc.edu-15SEPT15.c edtest
+ls
+rm -r comp264hw2
+ls
+cd hw2
+ls
+cd ..
+ls
+cd comp264hw3
+ls
+cp datalab-f15-handout ..
+cd ..
+ls
+cp-r datalab-f15-handout ..
+cp --help
+ls
+cd comp264hw3
+ls
+mv ..
+mv --help
+ls
+cp cp datalab-f15-handout ..
+cp -r datalab-f15-handout ..
+ls
+cd ..
+ls
+cp -r datalab-f15-handout hw3
+ls
+cd hw3
+ls
+cd datalab-f15-handout
+ls
+cd ..
+cd..
+cd ..
+ls 
+rm -r comp264hw1 datalab-f15-handout
+ls
+rm -r comp264hw3
+y
+ls
+cd hw3
+cd ..
+hw1
+cd hw1
+ls
+git init
+cd ..
+git init
+add -A
+git add -A
+git commit -m "first commit"
+git remote add origin https://github.com/jetman360/COMP-264.goit
+git remote add origin https://github.com/jetman360/COMP-264.git
+git push -u origin master
+git remote -v
+git remote set-url origin https://github.com/jetman360/COMP-264.git
+git remote -v
+git push -u origin master
+ls
+cd hw3
+cd ..
+cd hw2
+ls
+ls
+mkdir hw4
+chmod go-rwx . 
+cd hw4
+nano decode4.c
+cd hw4
+ls
+nano decode.c
+clear
+ls
+gcc- o decode.c decode
+gcc -o decode decode.c
+nano decode.c
+nano decode.c
+clear
+gcc -o decode  decode.c
+nano decode.c
+celar
+clear
+gcc -o decode.c
+gcc -o decode decode.c
+ls
+./decode
+gcc -S decode.c -o codetest
+ls
+nano codetest
+lear
+clear
+ls
+rm decode
+ls
+cp decodetest ~rig/c264hw4sub/abauer3@luc.edu-ABC98765.c
+cp codetest ~rig/c264hw4sub/abauer3@luc.edu-ABC98765.c
+ls
+ls -l ~rig/c264hw4sub/abauer3@luc.edu-ABC98765.c
